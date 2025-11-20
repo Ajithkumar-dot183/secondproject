@@ -1,0 +1,1 @@
+this is an example of git how to clone a project and how to use in and how to push it again to git
