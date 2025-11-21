@@ -1,1 +1,2 @@
 this is an example of git how to clone a project and how to use in and how to push it again to git
+Think this line is added by the test 2 person to know how merge conflicts will happen
